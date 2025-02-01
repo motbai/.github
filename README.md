@@ -11,14 +11,14 @@
 
 ## **Overview**  
 
-The **Mark of the Beast AI System** is a cutting-edge AI project powered by **Solana blockchain**, **quantum technologies**, and **deep learning models** like **Llama 3.3**, **Qwen 2.5**, and **Stable Diffusion XL**. It features AI chat, image generation, document scanning, and integrates Solana payments using the `$MOTB` token for premium services.  
+The **Mark of the Beast AI System** is a cutting-edge AI project powered by **Solana blockchain**, **quantum technologies**, and **deep learning models** like **Llama 3.3**, **Qwen 2.5**, **DeepSeek-R1**, and **Stable Diffusion XL**. It features AI chat, image generation, document scanning, and integrates Solana payments using the `$MOTB` token for premium services.  
 
 With our **Blink**-enabled transactions on Solana, users can interact seamlessly with AI agents trained specifically for quantum and blockchain tasks.
 
 ---
 
 ## **Features**
-- **AI Chat** powered by multiple pre-trained LLMs like **Llama 3.3** and **Qwen 2.5**  
+- **AI Chat** powered by multiple pre-trained LLMs like **Llama 3.3**, **DeepSeek-R1**, and **Qwen 2.5**  
 - **Image Generation** with Stable Diffusion XL  
 - **Document Scanning & OCR** for PDFs and images  
 - **Solana Wallet Integration** for payments using `$MOTB`  
@@ -69,7 +69,7 @@ With our **Blink**-enabled transactions on Solana, users can interact seamlessly
 
 ### **1. AI Chat System**  
 - Open the frontend and navigate to the **Chat** tab.
-- Type your message and select the model you want to use (e.g., Llama 3.3).
+- Type your message and select the model you want to use (e.g., Qwen 2.5, DeepSeek-R1, Llama 3.3).
 - Click "Send" to get an AI-generated response.
 
 ### **2. Image Generation**  
